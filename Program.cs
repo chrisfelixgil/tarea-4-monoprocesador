@@ -1,5 +1,8 @@
 ﻿namespace SimuladorMonoprocesador
 {
+
+    //Christian Gil - 2012-1031
+    //Tarea 4 - Simulador Monoprocesador
     class Program
     {
         static void Main()
