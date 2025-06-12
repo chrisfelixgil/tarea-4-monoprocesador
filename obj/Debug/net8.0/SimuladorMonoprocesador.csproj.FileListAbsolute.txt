@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\bin\Debug\net8.0\SimuladorMonoprocesador.exe
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\bin\Debug\net8.0\SimuladorMonoprocesador.deps.json
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\bin\Debug\net8.0\SimuladorMonoprocesador.runtimeconfig.json
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\bin\Debug\net8.0\SimuladorMonoprocesador.dll
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\bin\Debug\net8.0\SimuladorMonoprocesador.pdb
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\obj\Debug\net8.0\SimuladorMonoprocesador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\obj\Debug\net8.0\SimuladorMonoprocesador.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\obj\Debug\net8.0\SimuladorMonoprocesador.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\obj\Debug\net8.0\SimuladorMonoprocesador.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\obj\Debug\net8.0\SimuladorMonoprocesador.dll
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\obj\Debug\net8.0\refint\SimuladorMonoprocesador.dll
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\obj\Debug\net8.0\SimuladorMonoprocesador.pdb
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\obj\Debug\net8.0\SimuladorMonoprocesador.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Escritorio\ITLA\Cuatrimestre 6\Programación Paralela - Wilmer Jose Fariña Piñero\Modulo 4\SimuladorMonoprocesador\obj\Debug\net8.0\ref\SimuladorMonoprocesador.dll
